@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/pypi/v/cognito-oauthtools) ![Build Status](https://img.shields.io/github/workflow/status/josephbmanley/cognito-oauthtools/build/master) ![Supported Versions](https://img.shields.io/pypi/pyversions/cognito-oauthtools)
+![Build & Publish](https://github.com/josephbmanley/cognito-oauthtools/workflows/Build%20&%20Publish/badge.svg) ![Version](https://img.shields.io/pypi/v/cognito-oauthtools) ![Supported Versions](https://img.shields.io/pypi/pyversions/cognito-oauthtools)
 
 # cognito-oauthtools
 
